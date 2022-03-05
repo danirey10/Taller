@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"taller","l":"Cliente"},{"p":"taller","l":"Diagnostico"},{"p":"taller","l":"Factura"},{"p":"taller","l":"Material"},{"p":"taller","l":"Producto"},{"p":"taller","l":"Reparacion"},{"p":"taller","l":"Diagnostico.Status"},{"p":"taller","l":"Taller"}]
