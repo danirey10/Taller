@@ -15,6 +15,15 @@ public class Diagnostico {
     private final Reparacion[] lista_reparacions; // Reparacións necesarias
     private int nreparacions;
     
+    /**
+    * @param cliente Pide un cliente
+    * @see Cliente 
+    * @param producto Pide un producto
+    * @see Producto
+    * @param codigo Pide un código
+    * @param descricion La descripción
+    */
+    
     public Diagnostico(Cliente cliente,Producto producto,String codigo,String descricion) {
         this.cliente=cliente;
         this.producto=producto;
